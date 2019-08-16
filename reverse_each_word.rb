@@ -9,5 +9,4 @@ def reverse_each_word(sentence1)
       return  arr.join(" ")
     return arr
   end 
-
    p reverse_each_word(sentence1)
