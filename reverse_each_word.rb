@@ -10,3 +10,7 @@ def reverse_each_word(sentence1)
     return arr
   end 
    p reverse_each_word(sentence1)
+   
+   
+   def reverse_each_word(sentence1)
+     
